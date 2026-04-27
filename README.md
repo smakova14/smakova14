@@ -16,7 +16,7 @@
 
 ---
 ### 🚀 Ключевой проект:
-**[Solution Design: Secure VPN System Analysis](gh repo clone smakova14/secure-vpn-system-analysis)**
+**[Solution Design: Secure VPN System Analysis](https://github.com/smakova14/secure-vpn-system-analysis.git)**
 *Комплексное проектирование системы защищенного доступа: требования (BR/FR/NFR), UML-моделирование и соответствие нормам ИБ.*
 
 ### 📫 Контакты:
