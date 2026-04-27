@@ -6,7 +6,7 @@
 ### 🛠 Технологический стек:
 *   **Моделирование:** UML (Sequence, State, Use Case), DFD, ERD.
 *   **Интеграции:** Проектирование API (REST, SOAP), описание взаимодействия микросервисов.
-*   **Данные и разработка:** SQL, Python (FastAPI, Pandas), Git, Docker.
+*   **Данные и разработка:** SQL, Python (FastAPI, Pandas), Git.
 *   **Сети:** Стек TCP/IP, модель OSI, безопасность сетевого периметра.
 *   **Документация:** Разработка SRS, ТЗ (ГОСТ 34/19), матрицы трассировки требований.
 
@@ -16,7 +16,7 @@
 
 ---
 ### 🚀 Ключевой проект:
-**[Solution Design: Secure VPN System Analysis](https://github.com)**
+**[Solution Design: Secure VPN System Analysis](gh repo clone smakova14/secure-vpn-system-analysis)**
 *Комплексное проектирование системы защищенного доступа: требования (BR/FR/NFR), UML-моделирование и соответствие нормам ИБ.*
 
 ### 📫 Контакты:
